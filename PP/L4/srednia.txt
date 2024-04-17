@@ -1,2 +1,0 @@
-wzrost.txt -nan 0 
-wzrost.txt 174.738285 100 
