@@ -464,4 +464,16 @@ docs/_book
 # TODO: where does this rule come from?
 test/
 
+#others
+*.exe
+*.recipe
+*.tlog
+*.sln
+.vs
+x64
+*.vcxproj
+*.filters
+*.user
+
+
 # End of https://www.toptal.com/developers/gitignore/api/c,c++,java,python,node,vue,matlab,labview
