@@ -1,6 +1,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/c,c++,java,python,node,vue,matlab,labview
 # Edit at https://www.toptal.com/developers/gitignore?templates=c,c++,java,python,node,vue,matlab,labview
 
+**/**/.vscode
+
 ### C ###
 # Prerequisites
 *.d

@@ -1,0 +1,8 @@
+Name: leg Speed: 20 Weight: 20
+Name: leg Speed: 30 Weight: 20
+Name: leg Speed: 70 Weight: 20
+Name: leg Speed: 70 Weight: 20
+Name: arm Attack: 40 Weight: 20
+Name: arm Attack: 40 Weight: 20
+Name: tail Charm: 50 Weight: 20
+Name: head Inteligence: 150 Weight: 20
